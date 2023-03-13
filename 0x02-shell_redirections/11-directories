@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d | -al
+find -type d ! -path . |wc -1
