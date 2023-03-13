@@ -1,2 +1,2 @@
 #!/bin/bash
-tial -1 | rgrep
+tial -1 iacta >> iacta
